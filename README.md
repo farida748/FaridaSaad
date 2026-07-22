@@ -170,13 +170,6 @@
 
 ---
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:4F46E5,100:06B6D4"
-    alt="Footer"
-  />
-</p>
 
 
 
@@ -185,7 +178,7 @@
 <h2 align="center">📄 My Resume</h2>
 
 <p align="center">
-  <a href="YOUR_CV_LINK" target="_blank">
+  <a href="https://drive.google.com/file/d/16uCwEdEKb7f1p3yrCdzPS2yzJV2XGKmv/view?usp=sharing" target="_blank">
     <img
       src="https://img.shields.io/badge/Download_CV-6C3FC5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
       alt="Download CV"
