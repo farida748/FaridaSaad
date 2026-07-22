@@ -27,8 +27,8 @@
 <img
   align="right"
   width="280"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Coding Animation"
+  src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/developer.gif"
+  alt="Developer Animation"
 />
 
 - 🎓 Computer Science student at **Menoufia University**
